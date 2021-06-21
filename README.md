@@ -6,7 +6,7 @@ Oficial repo: https://github.com/vuestorefront/magento2
 
 ## Requirements:
 - NodeJS v14 or later
-- Magento >= v2.4.2 instance for GraphQL endpoint (dockergento server): 
+- Magento >= v2.4.2 instance for GraphQL endpoint (dockergento server): https://github.com/AndresOller/magento242-dockergento
 
 ## How to use
 
