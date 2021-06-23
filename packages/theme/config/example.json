@@ -1,0 +1,6 @@
+{
+  "magentoGraphQl": "http://localhost/graphql",
+  "enableMagentoExternalCheckout": false,
+  "externalCheckoutUrl": "http://localhost",
+  "externalCheckoutSyncPath": "/vue/cart/sync"
+}

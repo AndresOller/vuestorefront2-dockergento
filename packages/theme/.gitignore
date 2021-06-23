@@ -93,6 +93,4 @@ sw.*
 *.swp
 
 version
-.env
 !config/example.json
-config/*.json
